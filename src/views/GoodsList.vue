@@ -1,6 +1,8 @@
 <template>
   <div>
-    <NavHeader></NavHeader>
+    <NavHeader>
+      哈哈哈 我改了一下
+    </NavHeader>
     <!--或者 因为原来要小写的-->
     <!--<nav-header></nav-header>-->
     <NavBread>
